@@ -17,13 +17,13 @@ function App() {
             <Link className="brand" to="/">amazona</Link>
           </div>
           <div>
-            <Link to="cart.html">
+            <Link to="/cart">
               Cart
               {cartItems.length > 0 && (
                 <span className="badge">{cartItems.length}</span>
               )}
             </Link>
-            <Link to="signin.html">Sign In</Link>
+            <Link to="/signin">Sign In</Link>
           </div>
         </header>
         <main>
