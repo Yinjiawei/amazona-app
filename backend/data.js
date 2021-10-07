@@ -16,7 +16,6 @@ const data = {
     ],
     products: [
         {
-            _id: '1',
             name: 'Nike Slim Shirt',
             category: 'Shirts',
             image: '/images/p1.jpg',
@@ -28,7 +27,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '2',
             name: 'Adidas Fit Shirt',
             category: 'Shirts',
             image: '/images/p2.jpg',
@@ -40,7 +38,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '3',
             name: 'Lacoste Free Shirt',
             category: 'Shirts',
             image: '/images/p3.jpg',
@@ -52,7 +49,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '4',
             name: 'Nike Slim Pant',
             category: 'Pants',
             image: '/images/p4.jpg',
@@ -64,7 +60,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '5',
             name: 'Puma Slim Pant',
             category: 'Pants',
             image: '/images/p5.jpg',
@@ -76,7 +71,6 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '6',
             name: 'Adidas Fit Pant',
             category: 'Pants',
             image: '/images/p6.jpg',
@@ -87,8 +81,7 @@ const data = {
             numReviews: 15,
             description: 'high quality product',
         },{
-            _id: '7',
-            name: 'Nike Slim Shirt',
+            name: 'Nike Slim Shirt New',
             category: 'Shirts',
             image: '/images/p1.jpg',
             price: 120,
@@ -99,8 +92,7 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '8',
-            name: 'Adidas Fit Shirt',
+            name: 'Adidas Fit Shirt New',
             category: 'Shirts',
             image: '/images/p2.jpg',
             price: 100,
@@ -111,8 +103,7 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '9',
-            name: 'Lacoste Free Shirt',
+            name: 'Lacoste Free Shirt New',
             category: 'Shirts',
             image: '/images/p3.jpg',
             price: 220,
@@ -123,8 +114,7 @@ const data = {
             description: 'high quality product',
         },
         {
-            _id: '10',
-            name: 'Nike Slim Pant',
+            name: 'Nike Slim Pant New',
             category: 'Pants',
             image: '/images/p4.jpg',
             price: 78,
