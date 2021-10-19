@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 const orderSchema = new mongoose.Schema(
     {
-        orderItem: [
+        orderItems: [
             {
                 name: { type: String, required: true },
                 qty: { type: Number, required: true },
